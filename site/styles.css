@@ -14,6 +14,24 @@ a {
 h1 {
     color: #ffffff;
 }
+
+img.post-image {
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+i.caption {
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+    font-size: 80%;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    margin-bottom: 40px;
+}
+
 p#description {
     width: 1000px;
     color: #ffffff;
